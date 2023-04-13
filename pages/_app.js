@@ -1,14 +1,3 @@
-// // import { Layout1 } from '@/components'
-// import '@/styles/globals.css'
-// import React from 'react'
-// import { Layout } from '../components';
-
-
-// function App({ Component, pageProps }) {
-//   return (
-//     <Layout><Component {...pageProps} /></Layout>
-//   )
-// }
 
 import React from 'react';
 // import { Toaster } from 'react-hot-toast';
